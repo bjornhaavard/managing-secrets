@@ -1,6 +1,6 @@
 {
   "name": "managing-secrets",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "module 1 lesson for Workflow",
   "main": "index.js",
   "scripts": {
